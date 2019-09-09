@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/recsam/CLionProjects/vehicle-generator/NormalDistribution.h
+cmath
+-
+
+/Users/recsam/CLionProjects/vehicle-generator/VehicleGenerator.cpp
+VehicleGenerator.h
+/Users/recsam/CLionProjects/vehicle-generator/VehicleGenerator.h
+iostream
+-
+
+/Users/recsam/CLionProjects/vehicle-generator/VehicleGenerator.h
+ctime
+-
+random
+-
+vector
+-
+string
+-
+NormalDistribution.h
+/Users/recsam/CLionProjects/vehicle-generator/NormalDistribution.h
+
